@@ -8,55 +8,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./i18n/pt-pt.json"
   },
   {
-    "url": "app/0.6641924c53bdac889d88.chunk.js"
+    "url": "app/0.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/1.6641924c53bdac889d88.chunk.js"
+    "url": "app/10.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/10.6641924c53bdac889d88.chunk.js"
+    "url": "app/11.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/11.6641924c53bdac889d88.chunk.js"
+    "url": "app/12.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/12.6641924c53bdac889d88.chunk.js"
+    "url": "app/13.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/13.6641924c53bdac889d88.chunk.js"
+    "url": "app/14.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/14.6641924c53bdac889d88.chunk.js"
+    "url": "app/15.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/15.6641924c53bdac889d88.chunk.js"
+    "url": "app/4.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/16.6641924c53bdac889d88.chunk.js"
+    "url": "app/5.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/5.6641924c53bdac889d88.chunk.js"
+    "url": "app/6.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/6.6641924c53bdac889d88.chunk.js"
+    "url": "app/7.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/7.6641924c53bdac889d88.chunk.js"
+    "url": "app/8.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/8.6641924c53bdac889d88.chunk.js"
+    "url": "app/9.11ecbd016272a0a464e1.chunk.js"
   },
   {
-    "url": "app/9.6641924c53bdac889d88.chunk.js"
+    "url": "app/global.11ecbd016272a0a464e1.bundle.js"
   },
   {
-    "url": "app/global.6641924c53bdac889d88.bundle.js"
+    "url": "app/main.11ecbd016272a0a464e1.bundle.js"
   },
   {
-    "url": "app/main.6641924c53bdac889d88.bundle.js"
-  },
-  {
-    "url": "app/polyfills.6641924c53bdac889d88.bundle.js"
+    "url": "app/polyfills.11ecbd016272a0a464e1.bundle.js"
   },
   {
     "revision": "3fc3e8ec3f4615853005eedcffba2f73",
@@ -76,7 +73,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "content/d46cc6d507235c9837c24531ead103fa.png"
   },
   {
-    "revision": "d05aaaddfb20752612f1",
+    "revision": "7132a3eabb6e4521154c",
     "url": "content/global.be4171ccda4560361559.css"
   },
   {
@@ -172,7 +169,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "content/images/logo-jhipster.png"
   },
   {
-    "revision": "f412e01cc202094a0296",
+    "revision": "bee17f34b3bb60d957fd",
     "url": "content/main.77e5f3e37ecd794bbd5d.css"
   },
   {
@@ -192,7 +189,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "6eeea951677bbc6e1eb6db64495cc33e",
+    "revision": "550bb298e8ad2dd800887e94d62ea34d",
     "url": "index.html"
   },
   {
