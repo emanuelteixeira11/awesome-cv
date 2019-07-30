@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "025467f9da66693700b86905ea2d0ea1",
+    "revision": "ea10890590ebc58c42d37dfcb00c5c9c",
     "url": "./i18n/en.json"
   },
   {
@@ -8,52 +8,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./i18n/pt-pt.json"
   },
   {
-    "url": "app/0.b837e6eea9d903223a93.chunk.js"
+    "url": "app/0.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/10.b837e6eea9d903223a93.chunk.js"
+    "url": "app/10.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/11.b837e6eea9d903223a93.chunk.js"
+    "url": "app/11.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/12.b837e6eea9d903223a93.chunk.js"
+    "url": "app/12.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/13.b837e6eea9d903223a93.chunk.js"
+    "url": "app/13.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/14.b837e6eea9d903223a93.chunk.js"
+    "url": "app/14.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/15.b837e6eea9d903223a93.chunk.js"
+    "url": "app/15.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/4.b837e6eea9d903223a93.chunk.js"
+    "url": "app/4.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/5.b837e6eea9d903223a93.chunk.js"
+    "url": "app/5.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/6.b837e6eea9d903223a93.chunk.js"
+    "url": "app/6.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/7.b837e6eea9d903223a93.chunk.js"
+    "url": "app/7.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/8.b837e6eea9d903223a93.chunk.js"
+    "url": "app/8.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/9.b837e6eea9d903223a93.chunk.js"
+    "url": "app/9.740cd9aa7027fb525489.chunk.js"
   },
   {
-    "url": "app/global.b837e6eea9d903223a93.bundle.js"
+    "url": "app/global.740cd9aa7027fb525489.bundle.js"
   },
   {
-    "url": "app/main.b837e6eea9d903223a93.bundle.js"
+    "url": "app/main.740cd9aa7027fb525489.bundle.js"
   },
   {
-    "url": "app/polyfills.b837e6eea9d903223a93.bundle.js"
+    "url": "app/polyfills.740cd9aa7027fb525489.bundle.js"
   },
   {
     "revision": "3fc3e8ec3f4615853005eedcffba2f73",
@@ -66,7 +66,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "content/a91a768a67aba7d94a38279e980f9284.png"
   },
   {
-    "revision": "b72ec11815ad9ce95a70cc9cc30b9731",
+    "revision": "7a88620bda6b70af438d871dc0cb8b95",
     "url": "content/css/loading.css"
   },
   {
@@ -169,7 +169,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "content/images/logo-jhipster.png"
   },
   {
-    "revision": "e8c774d05c6a078a402b",
+    "revision": "3d0fa8df3669f565b14c",
     "url": "content/main.77e5f3e37ecd794bbd5d.css"
   },
   {
@@ -189,7 +189,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "2241ec7924872c0a954e824f8d0385ec",
+    "revision": "ac54f3c114ebbdbef671fc6409c70e81",
     "url": "index.html"
   },
   {
