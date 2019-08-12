@@ -8,52 +8,52 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./i18n/pt-pt.json"
   },
   {
-    "url": "app/0.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/0.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/10.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/10.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/11.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/11.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/12.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/12.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/13.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/13.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/14.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/14.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/15.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/15.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/4.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/4.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/5.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/5.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/6.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/6.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/7.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/7.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/8.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/8.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/9.14c9f4c3946c93ee852c.chunk.js"
+    "url": "app/9.37ee895802bd9cff185f.chunk.js"
   },
   {
-    "url": "app/global.14c9f4c3946c93ee852c.bundle.js"
+    "url": "app/global.37ee895802bd9cff185f.bundle.js"
   },
   {
-    "url": "app/main.14c9f4c3946c93ee852c.bundle.js"
+    "url": "app/main.37ee895802bd9cff185f.bundle.js"
   },
   {
-    "url": "app/polyfills.14c9f4c3946c93ee852c.bundle.js"
+    "url": "app/polyfills.37ee895802bd9cff185f.bundle.js"
   },
   {
     "revision": "3fc3e8ec3f4615853005eedcffba2f73",
@@ -169,7 +169,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "content/images/logo-jhipster.png"
   },
   {
-    "revision": "13af5cdfd3e7e1c7be4b",
+    "revision": "8f22eebcf5bae1c782c3",
     "url": "content/main.77e5f3e37ecd794bbd5d.css"
   },
   {
@@ -189,7 +189,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "favicon.ico"
   },
   {
-    "revision": "4ba575e9d88e0577d942439ba9797524",
+    "revision": "8bf75f51844f879d7cd74d7f21c67e71",
     "url": "index.html"
   },
   {
