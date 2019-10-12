@@ -1,2 +1,0 @@
-# awesome-cv
-Awesome cv 
