@@ -1,0 +1,18 @@
+{
+  "file": "teste",
+  "type": "json",
+  "entries": [
+    {
+      "key": "value",
+      "value": "value"
+    },
+    {
+      "key": "value",
+      "value": "value"
+    },
+    {
+      "key": "value",
+      "value": "value"
+    }
+  ]
+}
